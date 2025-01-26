@@ -17,6 +17,7 @@ This project aims to predict the onset of diabetes in individuals using machine 
 
 # Logistic Regression:
 <img width="305" alt="image" src="https://github.com/user-attachments/assets/1d89a40c-fe28-4de1-be0e-f183378d1d69" />
+
 # Gaussian Naive Bayes Classifier
 <img width="257" alt="image" src="https://github.com/user-attachments/assets/ee15f1df-447a-4198-a338-2a34194ee4be" />
 # Decision Tree Classifier
